@@ -16,9 +16,9 @@
         <br>    <input type="text" name="email" placeholder="Email" required>
   <br>
 
-<label for="Date of Birth"><strong>DOB</strong>:
+<label for="Date of Birth"><strong>DOB:</strong></label>
 <input type="date" name="dob" required>
-</label>  <br> 
+  <br> 
 
 <label for="gender"><strong>Gender</strong></label>
         <select name="gender" required>
